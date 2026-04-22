@@ -1,0 +1,71 @@
+{
+  "categorical_features": [
+    "Company",
+    "TypeName",
+    "CPU_Brand",
+    "CPU_Tier",
+    "GPU_Tier",
+    "Resolution_Cat",
+    "OpSys"
+  ],
+  "numeric_features": [
+    "Inches",
+    "RAM_GB",
+    "Weight_kg",
+    "CPU_GHz",
+    "SSD_GB",
+    "HDD_GB"
+  ],
+  "final_r2": 0.8407,
+  "companies": [
+    "Acer",
+    "Apple",
+    "Asus",
+    "Chuwi",
+    "Dell",
+    "Fujitsu",
+    "Google",
+    "HP",
+    "Huawei",
+    "LG",
+    "Lenovo",
+    "MSI",
+    "Mediacom",
+    "Microsoft",
+    "Razer",
+    "Samsung",
+    "Toshiba",
+    "Vero",
+    "Xiaomi"
+  ],
+  "types": [
+    "2 in 1 Convertible",
+    "Gaming",
+    "Netbook",
+    "Notebook",
+    "Ultrabook",
+    "Workstation"
+  ],
+  "os_options": [
+    "Android",
+    "Chrome OS",
+    "Linux",
+    "Mac OS X",
+    "No OS",
+    "Windows 10",
+    "Windows 10 S",
+    "Windows 7",
+    "macOS"
+  ],
+  "ram_options": [
+    2,
+    4,
+    6,
+    8,
+    12,
+    16,
+    24,
+    32,
+    64
+  ]
+}
